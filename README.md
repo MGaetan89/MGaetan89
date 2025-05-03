@@ -1,5 +1,6 @@
 # 👋🏻 Hi, I'm Gaëtan
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?&style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/MGaetan89)
 [![Strava](https://img.shields.io/badge/Strava-%23FC4C02.svg?&style=flat&logo=strava&logoColor=white)](https://www.strava.com/athletes/11691535)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?&style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1914223/ga%c3%abtan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ga%C3%ABtan-muller)
