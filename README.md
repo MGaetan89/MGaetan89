@@ -6,7 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ga%C3%ABtan-muller)
 
 - 🤖 **Android developer**
-  - 📱 I am currently working for [Ivy Partners](https://www.ivy.partners/), as a Senior Android Developer on the [Pillarbox](https://github.com/SRGSSR/pillarbox-android) media player at [RTS](https://www.rts.ch/).
+  - 📱 I am currently working for [Ivy Partners](https://www.ivy.partners/), as a Senior Android Developer:
+    - Currently at [Swissquote](https://www.swissquote.com/) on the [Swissquote](https://play.google.com/store/apps/details?id=com.swissquote.android) application.
+    - Previously at [RTS](https://www.rts.ch/) on the [Pillarbox](https://github.com/SRGSSR/pillarbox-android) media player.
   - 📈 I previously worked for [Swissquote](https://www.swissquote.com/), on both the [Swissquote](https://play.google.com/store/apps/details?id=com.swissquote.android) and [Yuh](https://play.google.com/store/apps/details?id=com.yuh) applications.
 - 🤝🏼 **Open-source contributor**
   - 🧪 I regularly contribute to [Robolectric](https://robolectric.org/), an open-source test framework for Android.
